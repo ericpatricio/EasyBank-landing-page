@@ -72,6 +72,7 @@
       }
 
       &__menu { 
+        
         @include breakpoint-down(medium) {
           position: absolute;
           width: calc(100% - 3rem);
@@ -96,7 +97,9 @@
           li {
             margin: 1rem;
           }
-        }             
+        } 
+        
+                    
         
         li {
           display: inline-block;        
@@ -132,6 +135,8 @@
             }
           }
         }
+        
+        
         
       }
 
