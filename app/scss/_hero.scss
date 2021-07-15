@@ -13,7 +13,7 @@
 
   &__image {
     position: relative;
-    background-image: url('/images/bg-intro-mobile.svg');
+    background-image: url('../../images/bg-intro-mobile.svg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -28,7 +28,7 @@
       flex: 3;
       order: 2;
       height: 41rem;                 
-      background-image: url('/images/bg-intro-desktop.svg');   
+      background-image: url('../../images/bg-intro-desktop.svg');   
       background-position: 5% 75%;
       background-size: 175%; 
     }    
@@ -41,7 +41,7 @@
     left: 0;
     bottom: 0;    
     right: 0;
-    background-image: url('/images/image-mockups.png');
+    background-image: url('../../images/image-mockups.png');
     background-size: 93%;
     background-repeat: no-repeat;
     background-position: center 86%;
